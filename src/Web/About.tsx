@@ -22,8 +22,8 @@ export const About : React.FC<AboutProps> = ({id}) => {
                     <AContent>
                         O nosso banco tem o melhor suporte direcionado 24hrs para 
                         você, com atendentes prontos para te ajudar a qualquer
-                        momento, que vão solucionar seus problemas em até 50 
-                        minutos. Através das ferramentas de Ticket com chat 
+                        momento, que vão solucionar seus problemas em até uma
+                        hora. Através das ferramentas de Ticket com chat 
                         integrado que vai ser respondido pelo suporte, o qual o 
                         aplicativo te notifica tirando a nescessidade de uma atenção
                         fixa no aplicativo, e um FAQ que é atualizado constantemente 
