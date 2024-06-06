@@ -219,7 +219,7 @@ export const CellphonePg2 = styled.img`
 
 export const ATitleBox = styled.div`
   margin-top: 4.6875%;
-  width: 80%;
+  width: 82%;
 
   & h2 {
     font-family: 'Inter', 'sans-serif';

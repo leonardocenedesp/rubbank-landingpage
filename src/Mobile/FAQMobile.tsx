@@ -72,7 +72,7 @@ export const FAQMobile: React.FC<FAQMobileProps> = ({id}) => {
                                 transform: isFaqButton2Clicked ? 'translateY(0)' : 'translateY(-20px)'
                             }}
                         >
-                            Atraves dos FAQs que se extendem ao aplicativo, e pelos Tickets de suporte que são respondidos em até 24 horas.
+                            Atraves dos FAQs que se extendem ao aplicativo, e pelos Tickets de suporte que são resolvidos em até 1 hora.
                         </FAQAsnwer>}
                         <Line
                             src={line}
