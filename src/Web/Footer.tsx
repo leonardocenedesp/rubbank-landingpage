@@ -40,6 +40,7 @@ export const Footer = () => {
                             <Titles>Contato</Titles>
                             <Content>Fone: (18) 3222-6805<br></br></Content>
                             <Content>E-mail: contato@rubcube.com<br></br></Content>
+                            <Content href='rubbank.com'>Termos de Uso<br></br></Content>
                         </ContentContainer>
                     </FourthSection>
                 </Rows>
